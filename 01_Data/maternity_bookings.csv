@@ -1,9 +1,21 @@
-booking_id
-patient_id
-trust_code
-booking_weeks
-maternal_age
-ethnicity
-postcode_area
-booking_date
-smoking_status
+booking_id,patient_id,trust_code,booking_weeks,maternal_age,ethnicity,postcode_area,booking_date,smoking_status
+B001,P1001,NUTH,8,29,White British,NE4,2026-01-10,No
+B002,P1002,NUTH,12,34,Black African,NE5,2026-01-11,Yes
+B003,P1003,STH,9,22,Asian Pakistani,SR2,2026-01-12,No
+B004,P1004,NUTH,,31,White British,NE3,2026-01-13,No
+B005,P1005,STH,15,19,black african,DH1,2026-01-13,Yes
+B006,P1006,NUTH,7,41,BLACK AFRICAN,NE6,2026-01-14,
+B007,P1007,NTW,11,27,White British,TS1,2026-01-15,No
+B008,P1008,NUTH,6,-2,Asian Indian,NE2,2026-01-16,No
+B009,P1009,STH,10,30,White British,DL3,2026-01-17,Yes
+B010,P1010,NUTH,14,24,Mixed,NE1,2026-01-18,No
+B011,P1011,NTW,5,33,White British,SR5,2026-01-19,No
+B012,P1012,NUTH,16,38,Asian Pakistani,NE7,2026-01-20,Yes
+B013,P1013,NUTH,9,26,White British,NE8,2026-01-20,No
+B014,P1014,STH,13,45,Black African,DH4,2026-01-21,Yes
+B015,P1015,NUTH,4,21,White British,NE9,2026-01-22,No
+B016,P1016,NTW,,36,Asian Indian,TS4,2026-01-23,No
+B017,P1017,NUTH,18,29,White British,NE10,2026-01-24,Yes
+B018,P1005,STH,15,19,Black African,DH1,2026-01-13,Yes
+B019,P1019,NUTH,65,32,White British,NE11,2026-01-25,No
+B020,P1020,NUTH,8,28,,NE12,2026-01-26,No
